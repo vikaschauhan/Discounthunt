@@ -1,0 +1,16 @@
+Discount Hunt
+# The humans responsible & technology colophon
+The Concept and Idea is initiated by Vikas Chauhan.
+
+# TEAM
+
+    <Vikas Chauhan> -- <Thinker/Solution Builder> -- <vikasford@gmail.com>
+
+# THANKS
+
+    <Bootstrap, Boilerplate, Flipkart, Amazon, Myntra and Github>
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    jQuery, Modernizr,Bootstrap, Boilerplate
