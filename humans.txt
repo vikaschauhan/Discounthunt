@@ -1,16 +1,64 @@
-Discount Hunt
+# humanstxt.org/
 # The humans responsible & technology colophon
-The Concept and Idea is initiated by Vikas Chauhan.
 
 # TEAM
 
-    <Vikas Chauhan> -- <Thinker/Solution Builder> -- <vikasford@gmail.com>
+    <Vikas Chauhan> -- <Designer & Founder> -- <@_Vikas_Chauhan>
 
 # THANKS
 
-    <Bootstrap, Boilerplate, Flipkart, Amazon, Myntra and Github>
+    <Bootstap>
 
 # TECHNOLOGY COLOPHON
 
-    HTML5, CSS3
-    jQuery, Modernizr,Bootstrap, Boilerplate
+    HTML5, CSS3, Javascript, Bootstrap, Jquery
+
+
+/* TEAM */
+Founder: Vikas Chauhan
+Contact: vikasford@gmail.com
+Twitter: @_Vikas_Chauhan
+Linkedin: in.linkedin.com/pub/vikas-chauhan/21/2b9/a85/
+From: Ambala, Haryana, India
+
+Web designer: Vikas Chauhan
+Contact: vikasford@gmail.com
+Twitter: @_Vikas_Chauhan
+Linkedin: in.linkedin.com/pub/vikas-chauhan/21/2b9/a85/
+From: Ambala, Haryana, India
+
+/* THANKS */
+Framework: Bootstrap
+Contact: getbootstrap.com
+
+Framework: Boilerplate
+Contact: html5boilerplate.com
+
+Guidance: Chris Coyier - Codepen
+Contact: codepen.io and css-tricks.com
+
+Hosting: Github
+
+Base: web-starter-kit-0.2.0-beta
+Contact:google.com
+
+Content: Flikart, Amazon, Myntra
+
+/* SITE */
+Language: English
+Location: India
+Doctype: HTML5
+IDE: Sublime Text, Notepad++, Inkscape
+
+
+/* TECHNOLOGY */
+HTML5
+CSS3
+Javascript
+Bootstrap
+Jquery
+Boilerplate
+
+
+
+

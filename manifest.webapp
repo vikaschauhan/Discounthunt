@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "name": "Discount Hunt",
+  "launch_path": "/index.html",
+  "description": "A Website that helps you find Discounts on Brand new products.",
+  "icons": {
+    "128": "/img/touch/icon-128x128.png"
+  },
+  "developer": {
+    "name": "Vikas Chauhan",
+    "url": "http://vikaschauhan.github.io/Discounthunt"
+  },
+  "installs_allowed_from": [
+    "*"
+  ],
+  "default_locale": "en",
+  "permissions": {
+  },
+  "locales": {
+    "en": {
+      "name": "Discount Hunt",
+      "description": "A Website that helps you find Discounts on Brand new products."
+    }
+  }
+}
