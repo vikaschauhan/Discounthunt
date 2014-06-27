@@ -22,11 +22,42 @@
     <meta name="msapplication-TileColor" content="#22BC9D">
 
     <link rel="stylesheet" href="css/bootstrap.min.css">
+    <!-- Fonts -->
+    <link href='http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900,100italic,300italic,400italic,700italic,900italic' rel='stylesheet' type='text/css'>
     <style>
-        body {
-            padding-top: 50px;
-            padding-bottom: 20px;
-        }
+        body {margin: 0; font-family: 'Lato', sans-serif;}
+        .hero h1 {
+    font-size: 60px;
+    font-weight: 300;
+    color: rgba(26, 188, 156,1.0);
+    letter-spacing: -1px;
+    margin: 80px 0px 20px;
+	background: rgba(255, 255, 255, 1.0);
+	box-shadow: 0 0 15px 2px rgba(0, 0, 0, 0.1);
+	}
+	.hero p{
+color: #1abc9c;
+font-weight: 300;
+font-size: 40px;
+}
+.get-started-btn {
+    background-color: #1abc9c;
+    padding: 20px 80px;
+    border-radius: 3px;
+    font-size: 22px;
+    letter-spacing: 2px;
+     box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.1) inset;
+    transition: all 0.5s ease 0s;
+    display: inline-block;
+}
+footer {
+    background-color: #fff;
+    padding: 15px 0px 22px;
+}
+footer p {
+    color: #7A8387;
+    line-height: 30px;
+}
     </style>
     <link rel="stylesheet" href="css/bootstrap-theme.min.css">
     <link rel="stylesheet" href="css/main.css">
@@ -50,77 +81,47 @@
     <!--[if lt IE 7]>
             <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
         <![endif]-->
-    <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+    <section class="hero" id="hero">
         <div class="container">
-            <div class="navbar-header">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-                    <span class="sr-only">Toggle navigation</span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>
-                <a class="navbar-brand" href="#">Discount Hunt</a>
+          <div class="row">
+            <div class="col-md-8 col-md-offset-2 text-center">
+              <h1 class="animated bounceInDown"><img src="img/image10.png" alt="Discount Hunt">iscount Hunt</h1>
+              <p class="animated fadeInUpDelay">Brand New Products @ Best Prices.</p>
             </div>
-            <div class="navbar-collapse collapse">
-                <ul class="nav navbar-nav navbar-right">
-                    <li class="active"><a href="#">Home</a>
-                    </li>
-                    <li><a href="#">Electronics</a>
-                    </li>
-                    <li><a href="#">Clothing</a>
-                    </li>
-                    <li><a href="#">Books</a>
-                    </li>
-                    <li><a href="#">Entertainment</a>
-                    </li>
-
-                </ul>
+          </div>
+          
+          <div class="row">
+            <div class="col-md-6 col-md-offset-3 text-center">
+              <a href="" class="get-started-btn">Coming Soon...</a>
             </div>
-            <!--/.navbar-collapse -->
+          </div>
         </div>
-    </div>
-
-    <!-- Main jumbotron for a primary marketing message or call to action -->
-    <div class="jumbotron">
+      </section>
+    <div class="container">
+      <!-- Example row of columns -->
+      <footer>
         <div class="container">
-            <h1><img src="img/g2987.png" alt="">Discount Hunt</h1>
-            <p>a leaderboard of the best discount on products at your finger tips.</p>
-            <p><a class="btn btn-primary btn-lg" role="button">Hunting &raquo;</a>
-            </p>
+          <div class="row">
+            <div class="col-md-12 text-center">
+              <a href="https://plus.google.com/115263689860070340963" rel="publisher">Google+</a>
+			  <!-- Place this tag where you want the widget to render. -->
+	<div class="g-page" data-href="//plus.google.com/u/0/115263689860070340963" data-rel="publisher"></div>
+
+<!-- Place this tag after the last widget tag. -->
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/platform.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+              <p class="footer-credit">Design by <a href="">Vikas Chauhan</a> | Founded by <a href="">Amrut Shetty | Imran Khan | Vikas Chauhan</a></p>
+            </div>
+          </div>
         </div>
-    </div>
-    <div class="container">
-        <!-- Place this tag where you want the widget to render. -->
-        <div class="g-post" data-href="https://plus.google.com/115263689860070340963/posts/15BMG4opJgb"></div>
-    </div>
-
-    <div class="container">
-        <!-- Example row of columns -->
-        <div class="row">
-            <div class="col-md-4">
-
-            </div>
-            <div class="col-md-4">
-                <h2>Heading</h2>
-                <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.</p>
-                <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a>
-                </p>
-            </div>
-            <div class="col-md-4">
-                <h2>Heading</h2>
-                <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-                <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a>
-                </p>
-            </div>
-        </div>
-
-        <hr>
-
-        <footer>
-            <p>&copy; Company 2014</p>
-        </footer>
-    </div>
-    <!-- /container -->
+      </footer>
+    </div> 
+	<!-- /container -->
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
     <script>
         window.jQuery || document.write('<script src="js/vendor/jquery-1.11.0.min.js"><\/script>')
